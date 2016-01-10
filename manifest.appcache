@@ -1,9 +1,8 @@
 CACHE MANIFEST
-# c94e2238202cabf42d48
+# 2e44b6bb4ea5963315a4
 
 manifest.json
 serviceworker.js
-d37380ea6ac9abdb6c8fd3c00fbaf410.png
 js/bundle.js
 css/main.css
 index.html
